@@ -1,0 +1,23 @@
+2025-11-30 00:49:50.674645 - ===== INICIO ETL INCREMENTAL =====
+2025-11-30 00:49:50.840079 - Leyendo Excel (incremental)...
+2025-11-30 00:49:52.212260 - Excel leído correctamente (incremental).
+2025-11-30 00:49:52.212260 - Transformando datos (incremental)...
+2025-11-30 00:49:52.242714 - Transformación incremental completada.
+2025-11-30 00:49:52.320271 - Última fecha en FactVentas: 2035-12-10
+2025-11-30 00:49:52.321253 - Última fecha en FactGastos: 2018-10-25
+2025-11-30 00:52:02.432505 - ===== INICIO ETL INCREMENTAL =====
+2025-11-30 00:52:02.632269 - Leyendo Excel (incremental)...
+2025-11-30 00:52:04.024465 - Excel leído correctamente (incremental).
+2025-11-30 00:52:04.025478 - Transformando datos (incremental)...
+2025-11-30 00:52:04.065903 - Transformación incremental completada.
+2025-11-30 00:52:04.100817 - Última fecha en FactVentas: 2035-12-10
+2025-11-30 00:52:04.102915 - Última fecha en FactGastos: 2018-10-25
+2025-11-30 00:52:04.110251 - Transacciones nuevas: 0
+2025-11-30 00:52:04.110251 - Gastos nuevos: 0
+2025-11-30 00:52:04.110251 - Actualizando/insertando DimCliente (incremental)...
+2025-11-30 00:52:04.302037 - DimCliente actualizada (incremental).
+2025-11-30 00:52:04.304096 - Actualizando/insertando DimProducto (incremental)...
+2025-11-30 00:52:04.344446 - DimProducto actualizada (incremental).
+2025-11-30 00:52:04.346898 - No hay nuevas transacciones para cargar en FactVentas.
+2025-11-30 00:52:04.347900 - No hay nuevos gastos para cargar en FactGastos.
+2025-11-30 00:52:04.349212 - ===== FIN ETL INCREMENTAL =====
